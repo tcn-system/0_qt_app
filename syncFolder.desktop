@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=2024.0
+Exec=/home/tcousin/Bureau/0_qt_app/app_syncFolder/syncFolder.sh
+Icon=/home/tcousin/Bureau/0_qt_app/0_app_icon/tcnSystemIcon.png
+Name=syncFolder
+GenericName=syncFolder
+Comment=Develop QT Applications
+Encoding=UTF-8
+Terminal=false
+Type=Application
+Categories=Application;IDE;
